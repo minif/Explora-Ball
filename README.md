@@ -4,7 +4,7 @@ This is an iPhone OS 2.0 game, made to run on the original iPhones and iPods tha
 ![Explora Ball Title Screen](https://raw.githubusercontent.com/minif/Explora-Ball/refs/heads/main/Screenshots/Title.PNG)
 
 ### Download
-Download from the [releases page.](https://github.com/minif/Explora-Ball/releases). 
+Download from the [releases page.](https://github.com/minif/Explora-Ball/releases)
 
 ### Compatibility
 This game is made to run on 32-bit iOS devices. However, it has been made with [touchHLE](https://touchhle.org) support in mind. The specific compatibility for this game is:
