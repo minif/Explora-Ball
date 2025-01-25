@@ -1,6 +1,8 @@
 # Explora-Ball
 This is an iPhone OS 2.0 game, made to run on the original iPhones and iPods that released during this time. Use the accelerometer to move balls into the goal to move onto the next level. This game features 75 levels, with different mechanics to explore.
 
+[Title screen](https://github.com/minif/Explora-Ball/blob/main/Screenshots/Title.PNG?raw=true)
+
 ### Compatibility
 This game is made to run on 32-bit iOS devices. However, it has been made with [touchHLE](https://touchhle.org) support in mind. The specific compatibility for this game is:
 - iPhone OS 2.0 to iOS 10.3.4, for iPhone, iPad, and iPod Touch
