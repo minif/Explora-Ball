@@ -33,7 +33,7 @@ It is reccomended to add the following line to your `touchHLE_options.txt` confi
 `com.minif.ExploraBall: --landscape-left --x-tilt-range=120 --button-to-touch=Start,470,10 --button-to-touch=DPadLeft,10,100 --button-to-touch=DPadRight,470,100`
 
 ### Building 
-This game was build in Xcode 3.1.2 using the original iPhone OS 2.0 SDK. Unless you somehow have a working Apple Developer certificate for this version of Xcode, The game requires a Self-Signed Certificate in order to build, or for code signing to be disabled. The game is build by selecting Build and Go, or any other Build option in Xcode. 
+This game was build in Xcode 3.1.2 using the original iPhone OS 2.0 SDK. Unless you somehow have a working Apple Developer certificate for this version of Xcode, The game requires a Self-Signed Certificate in order to build, or for code signing to be disabled. The game is built by selecting Build and Go, or any other Build option in Xcode. 
 
 ### Features to be implemented 
 Note that none of these features have any plans, this is more of a wish list for later:
