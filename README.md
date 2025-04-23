@@ -12,7 +12,7 @@ This game is made to run on 32-bit iOS devices. However, it has been made with [
 - touchHLE v0.2.2 and later, for Windows, Mac, and Android
 
 Known issues with this game include:
-- iOS 7.0 and later may experience issues with the Accelerometer. (Touch controls still work perfectly)
+- iOS 8.0 and later may experience issues with the Accelerometer. (Touch controls still work perfectly)
 - Certain android devices running touchHLE may experience graphical issues, that will make the game unplayable
   - For certain devices, switching between native OpenGL ES 1.1 and ANGLE implementations may resolve this issue
 
