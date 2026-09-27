@@ -47,7 +47,7 @@ Note that none of these features have any plans, this is more of a wish list for
 All code and assets produced by me (minif) for this project are designated under the [Creative Commons Zero v1.0 Universal](https://github.com/minif/Explora-Ball/blob/main/LICENSE.txt) license. This includes all code, with an exception of:
 - `EAGLView.mm` + `EAGLView.h`
 - `WavLoader.mm` + `WavLoader.h`
-- 
+  
 Due to the usage of the above files, the compiled (.ipa) release is unlicensed. I grant full permission to copy, share, modify, and use any whole or part of the program for whatever purpose.
 
 All assets not produced by me are listed below. To my knowledge they are designated as Creative Commons Zero as well.
