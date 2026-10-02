@@ -51,5 +51,5 @@ All code and assets produced by me (minif) for this project are designated under
 Due to the usage of the above files, the compiled (.ipa) release is unlicensed. I grant full permission to copy, share, modify, and use any whole or part of the program for whatever purpose.
 
 All assets not produced by me are listed below. To my knowledge they are designated as Creative Commons Zero as well.
-Bush texture used in backgrounds: [https://pxhere.com/en/photo/495268](https://pxhere.com/en/photo/495268)
-Font used in logo: [https://www.dafont.com/blue-highway.font](https://www.dafont.com/blue-highway.font)
+- Bush texture used in backgrounds: [https://pxhere.com/en/photo/495268](https://pxhere.com/en/photo/495268)
+- Font used in logo: [https://www.dafont.com/blue-highway.font](https://www.dafont.com/blue-highway.font)
